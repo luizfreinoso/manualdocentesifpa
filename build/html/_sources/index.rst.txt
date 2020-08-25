@@ -1,10 +1,10 @@
-.. Capacitação IFPA - Atividades Remotas e a Distância documentation master file, created by
+.. Manual de procedimentos de atividades remotas para professores e estudantes documentation master file, created by
    sphinx-quickstart on Mon Jul 13 17:13:11 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Capacitação IFPA - Atividades Remotas e a Distância
-===============================================================================
+Manual de procedimentos de atividades remotas para professores e estudantes
+===========================================================================
 
 O presente momento da história computa a pandemia do novo Coronavírus (COVID-19), no enfrentamento desta, as instituições de ensino preparam-se para retomar as aulas com a utilização de ferramentas e tecnologias que forneçam suporte e condições para a execução de atividades de ensino, sejam remotas ou a distância.
 
