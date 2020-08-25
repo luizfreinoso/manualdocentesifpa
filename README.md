@@ -1,4 +1,4 @@
-# Treinamento básico para aulas remotas e a distância
+# Manual de procedimentos de atividades remotas para professores e estudantes
 Capacitação para atividades remotas e a distância do IFPA/Óbidos disponibilizado para docentes.
 
 Desenvolvido com Sphinx versão 2.3.1

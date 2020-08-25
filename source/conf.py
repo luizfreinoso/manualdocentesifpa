@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
-project = 'Capacitação IFPA - Atividades Remotas e a Distância'
+project = 'Manual de procedimentos de atividades remotas para professores e estudantes'
 copyright = '2020, Luiz Fernando Reinoso'
 author = 'Luiz Fernando Reinoso'
 
