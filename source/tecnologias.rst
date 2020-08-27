@@ -98,7 +98,7 @@ Apostilas e livros
 ------------------
 
 
-* Modelo apostila
+* :download:`Modelo de livro/apostila <_media/livro_apostila.docx>`
 
 Folders, cartazes, maquetes e etc...
 ------------------------------------
@@ -107,7 +107,7 @@ Folders, cartazes, maquetes e etc...
 * :download:`Modelo Ata <_media/ata.docx>`
 * :download:`Modelo guia/informativo/tutorial <_media/informativo.docx>`
 * Modelo de relatório
-* Modelo de gabarito
+* :download:`Modelo de gabarito <_media/informativo.docx>`
 
 Guia/Informativo/Revista
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -117,10 +117,21 @@ Guia/Informativo/Revista
         <iframe src="https://www.youtube.com/embed/J-DQW7VClpE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
 
+Aulas complementares de WORD
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Para ajudar ainda mais, temos a seguir uma playlist de aulas complementares do canal do prof. Luiz Fernando Reinoso, fique a vontade para assistir e aprender um pouco mais sobre WORD e operaçãoes de ambientes Windows, em breve terá aulas nessa lista de Excel e outras ferramentas de informática básica:
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/videoseries?list=PLt73vsz1Xxww__ZcNZasFq3uttlganji2" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 Softwares e Apps avulsos
 ------------------------
 Selecione uma quantidade de recursos na medida, cuidado com o exagero e sobrecarga cognitiva para usar muitas coisas de uma só vez, tenha em mente, que cada tecnologia carece de um período de adaptação.
 
-Uma dica importante é sentar com professores de sua área e combinar os softwares. Por exemplo o eixo tecnológico utiliza linguagem de programações comum, bem como os ambientes de desenvolvimento de software, isso não impede a flexibilidade das aulas de cada docente e mesmo trocando de professor a operação dos estudantes tem certa linearidade e vai se tornando cada vez mais comum.
+Uma dica importante é sentar com professores de sua área e combinar os softwares. Por exemplo o eixo tecnológico utiliza linguagem de programações comum (Python ou java), bem como os ambientes de desenvolvimento de software (Sublime, visual studio code ou  netbeans), isso não impede a flexibilidade das aulas de cada docente e mesmo trocando de professor a operação dos estudantes tem certa linearidade ou similaridade e vai se tornando cada vez mais comum a forma de trabalho.
 
+.. note::
+  A observação dada não tem a intenção de limitar o trabalho docente mas de deixar claro uma perpectiva de trabalho que se não bem desenvolvida pode acarretar em uma série de problemas entre estudantes e professor.
