@@ -105,12 +105,13 @@ Folders, cartazes, maquetes e etc...
 
 * :download:`Modelo Folder <_media/BANNER_modelo.pptx>`
 * :download:`Modelo Ata <_media/ata.docx>`
-* :download:`Modelo guia/informativo/tutorial <_media/informativo.docx>`
+* :download:`Modelo guia/informativo/tutorial/revista <_media/informativo.docx>`
 * Modelo de relatório
 * :download:`Modelo de gabarito <_media/informativo.docx>`
 
-Guia/Informativo/Revista
-^^^^^^^^^^^^^^^^^^^^^^^^
+Guia/Informativo/Tutorial/Revista
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
