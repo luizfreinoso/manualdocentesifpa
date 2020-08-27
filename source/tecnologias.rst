@@ -107,7 +107,7 @@ Folders, cartazes, maquetes e etc...
 * :download:`Modelo Ata <_media/ata.docx>`
 * :download:`Modelo guia/informativo/tutorial/revista <_media/informativo.docx>`
 * :download:`Modelo de relatório <_media/relatorio.docx>`
-* :download:`Modelo de gabarito <_media/informativo.docx>`
+* :download:`Modelo de gabarito <_media/gabarito.docx>`
 
 Guia/Informativo/Tutorial/Revista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -22,8 +22,8 @@ copyright = '2020, Luiz Fernando Reinoso'
 author = 'Luiz Fernando Reinoso'
 
 # The full version, including alpha/beta/rc tags
-release = '1.2.3'
-version = '1.2.3'
+release = '1.2.4'
+version = '1.2.4'
 
 
 # -- General configuration ---------------------------------------------------
