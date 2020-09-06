@@ -43,6 +43,16 @@ Selecione uma quantidade de recursos na medida, cuidado com o exagero e sobrecar
 Gravação de Vídeos
 ------------------
 
+Edição de Vídeos
+----------------
+Vamos aprender a editar nosso material de vídeo com o Windows Movie Maker, disponível para download no link: `Instalador do WMM <https://mega.nz/#!SNsVEKSS!3t9-X_2Ue66P1qNgUfw4gMKYXPPxhauKdrDQUcve-NA>`_.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/TvsR-mJvAps" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 Lives
 -----
 
@@ -107,7 +117,7 @@ Folders, cartazes, maquetes e etc...
 * :download:`Modelo Ata <_media/ata.docx>`
 * :download:`Modelo guia/informativo/tutorial/revista <_media/informativo.docx>`
 * :download:`Modelo de relatório <_media/relatorio.docx>`
-* :download:`Modelo de gabarito <_media/informativo.docx>`
+* :download:`Modelo de gabarito <_media/gabarito.docx>`
 
 Guia/Informativo/Tutorial/Revista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
